@@ -117,7 +117,3 @@ The project demonstrates anomaly detection in user behavior data, focusing on fe
 ## Contributing
 
 Feel free to fork the repository, make improvements, and submit pull requests. Suggestions for additional features (e.g., new algorithms or data visualizations) are welcome!
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

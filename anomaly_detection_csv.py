@@ -1,4 +1,4 @@
-# numpy: Provides numerical operations and array handling for efficient data manipulation.
+# numpy:  Provides numerical operations and array handling for efficient data manipulation.
 # Used here for array operations on the input data.
 import numpy as np
 
